@@ -1,0 +1,8 @@
+install node modules: npm i
+
+typescript compilation process: tsc -w
+(to be constantly run in the background to compile typescript files)
+
+start server: npm start (executes the dist directory)
+
+data from the api's are generated and stored in memory.
